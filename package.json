@@ -26,16 +26,16 @@
   ],
   "license": "MIT",
   "resolutions": {
-    "@uniswap/sdk-core": "git+https://github.com/etcswap/sdk-core.git#etcswap",
-    "@uniswap/swap-router-contracts": "git+https://github.com/etcswap/swap-router-contracts.git#etcswap",
-    "@uniswap/v3-sdk": "git+https://github.com/etcswap/v3-sdk.git#etcswap"
+    "@uniswap/sdk-core": "git+https://github.com/emuswap/sdk-core.git#emuswap",
+    "@uniswap/swap-router-contracts": "git+https://github.com/emuswap/swap-router-contracts.git#emuswap",
+    "@uniswap/v3-sdk": "git+https://github.com/emuswap/v3-sdk.git#emuswap"
   },
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
-    "@uniswap/sdk-core": "git+https://github.com/etcswap/sdk-core.git#etcswap",
-    "@uniswap/swap-router-contracts": "git+https://github.com/etcswap/swap-router-contracts.git#etcswap",
+    "@uniswap/sdk-core": "git+https://github.com/emuswap/sdk-core.git#emuswap",
+    "@uniswap/swap-router-contracts": "git+https://github.com/emuswap/swap-router-contracts.git#emuswap",
     "@uniswap/v2-sdk": "^3.2.0",
-    "@uniswap/v3-sdk": "git+https://github.com/etcswap/v3-sdk.git#etcswap"
+    "@uniswap/v3-sdk": "git+https://github.com/emuswap/v3-sdk.git#emuswap"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
